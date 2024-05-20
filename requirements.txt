@@ -1,0 +1,7 @@
+nltk
+pillow
+dill
+pandas
+scikit-learn==1.2.2
+st-annotated-text
+boto3
